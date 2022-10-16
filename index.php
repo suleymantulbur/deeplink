@@ -1,6 +1,6 @@
 <?php
 
-echo "Hello World"
-<a href="https://deeplink-try.herokuapp.com/">link text</a>
+echo "Hello World";
+echo '<a href="https://deeplink-try.herokuapp.com/">link text</a>';
 
 ?>
