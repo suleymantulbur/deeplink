@@ -1,14 +1,5 @@
-[
-    {
-        "relation": [
-            "delegate_permission/common.handle_all_urls"
-        ],
-        "target": {
-            "namespace": "android_app",
-            "package_name": "com.azall.mobile.stage",
-            "sha256_cert_fingerprints": [
-                "7C:AF:0F:61:17:7A:EE:3D:4F:B5:F3:56:E7:E7:A3:78:C9:EB:E0:07:60:17:23:DB:71:90:AF:60:8C:57:70:E0"
-            ]
-        }
-    }
-]
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.azall.mobile.stage",
+               "sha256_cert_fingerprints": ["7C:AF:0F:61:17:7A:EE:3D:4F:B5:F3:56:E7:E7:A3:78:C9:EB:E0:07:60:17:23:DB:71:90:AF:60:8C:57:70:E0"] }
+}]
